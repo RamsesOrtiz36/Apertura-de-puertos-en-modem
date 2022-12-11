@@ -6,11 +6,11 @@ En algunos casos se puede acceder colocando la dirección IP del modem en el nav
 
 En las configuraciones de busca las redes LAN o dispositivos conectados mostrando una lista de nombres de equipos y la direcciones Ip asignadas a cada una.
 
-![Apertura de puertos1]()
+![Apertura de puertos1](https://github.com/RamsesOrtiz36/Apertura-de-puertos-en-modem/blob/main/Apertura%20de%20puertos1.png)
 
 Pueden ser muy variadas las ventanas de interaccion con el usuario, para esto en cada una se busca la configuración de internet o wifi, hasta encontrar alguna opcion de Range, DMZ o Remap, se aconseja no modificar las opciones pre establecidas y en especifico no usar el modo DMZ = Zona desmilitarizada
 
-![Apertura de puertos2]()
+![Apertura de puertos2](https://github.com/RamsesOrtiz36/Apertura-de-puertos-en-modem/blob/main/Apertura%20de%20puertos2.png)
 
 * Se busca agregar una regla para acceso de puertos con rango de 1880 a 1880 uando protocols TCP y UDP o ambos
 * Inrterfaz NAT sin modificar
@@ -21,4 +21,4 @@ Pueden ser muy variadas las ventanas de interaccion con el usuario, para esto en
 
 La apertura de puertos de modem nos sirve para que nuestra computadora funcione como servidor, así podrá proveer un servicio por internet sin nuestra intervención, pero se debe tener cuidado para no dejar desprotegido al equipo.
 
-![Apertura de puertos3]()
+![Apertura de puertos3](https://github.com/RamsesOrtiz36/Apertura-de-puertos-en-modem/blob/main/Apertura%20de%20puertos3.png)
